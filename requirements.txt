@@ -1,0 +1,2 @@
+ ......> install solidity extension for easy codes highlighting
+ ......> install @nomicfoundation/hardhat-toolbox package to run solidity tests
